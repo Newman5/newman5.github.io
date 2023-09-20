@@ -2,7 +2,7 @@
 sort: 7
 ---
 
-# Avatar Test
+# Another Avatar Test
 
 ```
 {% raw %}{% avatar saowang %}{% endraw %}
