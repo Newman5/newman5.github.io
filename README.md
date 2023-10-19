@@ -1,3 +1,6 @@
+# Thursday 2023-10-19 17:11 
+I think rundocs.io is defunct so I'm archiving this repo and hopefull pointing Newman5.github.io someplace else...
+
 # jekyll-rtd-theme
 
 ![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
